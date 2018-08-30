@@ -1,0 +1,60 @@
+body{
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-left: 0px;
+	background-image: url(website-background-2.jpg);
+	background-size: cover;
+}
+header {
+	background-color: #4caf50;
+	background-size: cover;
+	width: 100%;
+	position: relative;
+	border-bottom: 2px solid ;
+	border-right: 2px solid ;
+	box-shadow: 4px 4px 5px #888888;
+
+}
+p{
+	font-size: 3em;
+	font-family: 'Fredericka the Great', cursive;
+	color: white;
+}
+h4{
+	text-align: center;
+	<
+
+}
+strong{
+        color: blue;
+}
+a {
+	
+	color: white;
+}
+form{
+		line-height: 20px;
+}
+label{
+	color: white;
+}
+small{
+	color: white;
+	
+}
+
+.btn-success{
+	background-color: white;
+
+}
+.btn-success:hover
+	background-color: red;
+}
+.line {
+	text-decoration: line-through;
+
+}
+.text{
+	font-style: italic;
+	font-weight: bold;
+}
